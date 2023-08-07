@@ -1,0 +1,91 @@
+/* Poppins Font */
+@font-face {
+    font-family: PoppinsExtraLight;
+    src: url("fonts/poppins/Poppins-ExtraLight.ttf");
+}
+@font-face {
+    font-family: PoppinsLight;
+    src: url("fonts/poppins/Poppins-Light.ttf");
+}
+@font-face {
+    font-family: PoppinsRegular;
+    src: url("fonts/poppins/Poppins-Regular.ttf");
+}
+@font-face {
+    font-family: PoppinsMedium;
+    src: url("fonts/poppins/Poppins-Medium.ttf");
+}
+@font-face {
+    font-family: PoppinsSemiBold;
+    src: url("fonts/poppins/Poppins-SemiBold.ttf");
+}
+@font-face {
+    font-family: PoppinsBold;
+    src: url("fonts/poppins/Poppins-Bold.ttf");
+}
+@font-face {
+    font-family: PoppinsExtraBold;
+    src: url("fonts/poppins/Poppins-ExtraBold.ttf");
+}
+@font-face {
+    font-family: PoppinsBlack;
+    src: url("fonts/poppins/Poppins-Black.ttf");
+};
+/* Raleway Font */
+@font-face {
+    font-family: RalewayExtraLight;
+    src: url("fonts/Raleway/Raleway-ExtraLight.ttf");
+}
+@font-face {
+    font-family: RalewayLight;
+    src: url("fonts/Raleway/Raleway-Light.ttf");
+}
+@font-face {
+    font-family: RalewayRegular;
+    src: url("fonts/Raleway/Raleway-Regular.ttf");
+}
+@font-face {
+    font-family: RalewayMedium;
+    src: url("fonts/Raleway/Raleway-Medium.ttf");
+}
+@font-face {
+    font-family: RalewaySemiBold;
+    src: url("fonts/Raleway/Raleway-SemiBold.ttf");
+}
+@font-face {
+    font-family: RalewayBold;
+    src: url("fonts/Raleway/Raleway-Bold.ttf");
+}
+@font-face {
+    font-family: RalewayExtraBold;
+    src: url("fonts/Raleway/Raleway-ExtraBold.ttf");
+}
+@font-face {
+    font-family: RalewayBlack;
+    src: url("fonts/Raleway/Raleway-Black.ttf");
+};
+/* OpenSans Font */
+@font-face {
+    font-family: OpenSansLight;
+    src: url("fonts/OpenSans/OpenSans-Light.ttf");
+}
+@font-face {
+    font-family: OpenSansRegular;
+    src: url("fonts/OpenSans/OpenSans-Regular.ttf");
+}
+@font-face {
+    font-family: OpenSansMedium;
+    src: url("fonts/OpenSans/OpenSans-Medium.ttf");
+}
+@font-face {
+    font-family: OpenSansSemiBold;
+    src: url("fonts/OpenSans/OpenSans-SemiBold.ttf");
+}
+@font-face {
+    font-family: OpenSansBold;
+    src: url("fonts/OpenSans/OpenSans-Bold.ttf");
+}
+@font-face {
+    font-family: OpenSansExtraBold;
+    src: url("fonts/OpenSans/OpenSans-ExtraBold.ttf");
+}
